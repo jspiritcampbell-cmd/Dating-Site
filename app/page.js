@@ -64,7 +64,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Find Love?</h2>
           <p className="text-xl text-gray-600 mb-8">Join thousands of singles finding their perfect match</p>
-          <Link href="/browse" className="btn-primary">
+         <Link href="/get-started" className="btn-primary">
             Get Started Now
           </Link>
         </div>
